@@ -21,7 +21,23 @@ export default {
   },
   data () {
     return {
-      items: []
+      items: [],
+      swiperOption: {
+          effect: 'coverflow',
+          grabCursor: true,
+          centeredSlides: true,
+          slidesPerView: 'auto',
+          coverflowEffect: {
+            rotate: 50,
+            stretch: 0,
+            depth: 100,
+            modifier: 1,
+            slideShadows : true
+          },
+          pagination: {
+            el: '.swiper-pagination'
+          }
+        }
     }
   },
   created () {
@@ -40,6 +56,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 #app {
   color: #2c3e50;
