@@ -6,22 +6,22 @@
 </template>
 
 <script>
-export default {
-  name: 'Banner',
-  props: {
-    msg: String
+  export default {
+    name: 'Banner',
+    props: {
+      msg: String
+    }
   }
-}
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .banner {
-  background: white;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   height: 150px;
+  padding: 15px;
+  padding-top: 0px; 
 }
 .harvard-art-museum-text {
   height: 50%
