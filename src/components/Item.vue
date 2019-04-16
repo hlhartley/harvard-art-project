@@ -1,7 +1,6 @@
 <template>
     <div>
-        <img v-bind:src="item.primaryimageurl"/>
-        {{item.primaryimageurl}}
+        <img class="korean-painting" v-bind:src="item.primaryimageurl"/>
     </div>
 </template>
 
@@ -13,5 +12,7 @@ export default {
 </script>
 
 <style scoped>
-
+    .korean-painting {
+        height: 300px;
+    }
 </style>
