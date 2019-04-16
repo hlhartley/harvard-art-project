@@ -1,29 +1,24 @@
-# harvard-art-project
+# Harvard Art Project - Lonely Art
 
-## Project setup
-```
-npm install
-```
+Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Set-Up:
+**Front end**  
+Clone this repo  
+Run `npm install` from the root directory  
+Run `npm run serve` and visit http://localhost:8080 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Preview:
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Primary Technologies Used:
+* Vue
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Original Assignment: 
+[Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design  
+
+### Wireframes:
+![Wireframes]()
+
+### Future Enhancements:
+- 
