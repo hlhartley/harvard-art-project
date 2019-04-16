@@ -1,6 +1,8 @@
 <template>
   <div class="banner">
-    <img class="harvard-art-museum-text" src='../assets/harvard-art-museums.jpg'/>
+    <a href="https://www.harvardartmuseums.org/" target="_blank">
+      <img class="harvard-art-museum-text" src='../assets/harvard-art-museums.jpg'/>
+    </a>
     <h1>{{ msg }}</h1>
   </div>
 </template>
@@ -24,6 +26,9 @@
     padding-top: 0px; 
   }
   .harvard-art-museum-text {
-    height: 50%
+    height: 75px;
+  }
+  a {
+
   }
 </style>
