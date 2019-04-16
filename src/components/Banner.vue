@@ -1,5 +1,6 @@
 <template>
   <div class="banner">
+    <img class="harvard-art-museum-text" src='../assets/harvard-art-museums.jpg'/>
     <h1>{{ msg }}</h1>
   </div>
 </template>
@@ -15,18 +16,14 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h3 {
-  margin: 40px 0 0;
+.banner {
+  background: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 150px;
 }
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
+.harvard-art-museum-text {
+  height: 50%
 }
 </style>
