@@ -18,7 +18,7 @@ Run `npm run serve` and visit http://localhost:8080
 [Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design  
 
 ### Wireframes:
-![Wireframes]()
+![Wireframes](lonely-art-screenshot.png)
 
 ### Future Enhancements:
 - 
