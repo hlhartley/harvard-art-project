@@ -8,10 +8,10 @@
 </template>
 
 <script>
-export default {
-    name: "Item",
-    props: ["item"]
-}
+    export default {
+        name: "Item",
+        props: ["item"]
+    }
 </script>
 
 <style scoped>
@@ -34,7 +34,6 @@ export default {
         opacity: 0;
         transition: .5s ease;
     }
-
     .korean-painting-container:hover .overlay {
         opacity: 1;
     }

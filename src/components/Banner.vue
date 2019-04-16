@@ -15,15 +15,15 @@
 </script>
 
 <style scoped>
-.banner {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  height: 150px;
-  padding: 15px;
-  padding-top: 0px; 
-}
-.harvard-art-museum-text {
-  height: 50%
-}
+  .banner {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 150px;
+    padding: 15px;
+    padding-top: 0px; 
+  }
+  .harvard-art-museum-text {
+    height: 50%
+  }
 </style>
