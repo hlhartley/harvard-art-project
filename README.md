@@ -1,6 +1,6 @@
 # Harvard Art Project - Korean Paintings Edition
 
-Description
+Harvard Art Project - Korean Paintings Edition was created to showcase as well as promote certain selections of Korean art. The carousel allows users to easily swipe through the paintings one by one while viewing the associated title and info. One major learning goal of this project was to broaden my horizons by becoming more familiar with Vue.
 
 ### Set-Up:
 **Front end**  
@@ -22,6 +22,3 @@ Run `npm run serve` and visit http://localhost:8080
 
 ### Wireframes:
 ![Wireframes](korean-paintings-ss.png)
-
-### Future Enhancements:
-- 
