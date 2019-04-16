@@ -21,12 +21,12 @@ export default {
   },
   data () {
     return {
-      items: [{name: 'Art 1'}, {name: 'Art 2'}]
+      items: []
     }
   },
   created () {
-    this.$http.get(`https://api.harvardartmuseums.org/object?apikey=${apiKey}`).then(function(data) {
-      // this.art = data.body.records
+    this.$http.get(`https://api.harvardartmuseums.org/object?hasimage=1&culture=Korean&classification=Paintings&apikey=${apiKey}`).then(function(data) {
+      this.items = data.body.records
       console.log(data.body.records)
     })
   }
