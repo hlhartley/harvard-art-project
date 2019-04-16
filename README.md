@@ -6,7 +6,10 @@ Description
 **Front end**  
 Clone this repo  
 Run `npm install` from the root directory  
-Run `npm run serve` and visit http://localhost:8080 
+Run `npm run serve` and visit http://localhost:8080
+
+**Back end**   
+[Harvard Art Museum API](https://www.harvardartmuseums.org/collections/api)
 
 ### Preview:
 
