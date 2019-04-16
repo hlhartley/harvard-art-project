@@ -1,17 +1,24 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Banner msg="Welcome to Harvard Art Project"/>
+    <ItemsContainer v-bind:items="items"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Banner from './components/Banner.vue'
+import ItemsContainer from './components/ItemsContainer.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Banner,
+    ItemsContainer
+  },
+  data () {
+    return {
+      items: [{name: 'Art 1'}, {name: 'Art 2'}]
+    }
   }
 }
 </script>
