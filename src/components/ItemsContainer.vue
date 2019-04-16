@@ -3,7 +3,7 @@
     <md-card-actions>
       <br />
       <div class="md-subhead">
-        <span>Featuring Korean Paintings</span>
+        <span>Featuring: Korean Paintings</span>
         <span>（</span>
         <span>한국화</span>
         <span>）</span>
