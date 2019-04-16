@@ -51,7 +51,8 @@ export default {
 
 <style>
 * {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
