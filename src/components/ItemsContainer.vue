@@ -18,7 +18,7 @@
     </md-card-actions>
     <md-card-media class="swiper-inner">
       <swiper :options="swiperOption">
-        <swiper-slide v-for="item in items">
+        <swiper-slide v-bind:key="item.id" v-for="item in items">
           <Item v-bind:item="item"/>
         </swiper-slide>
         <div class="swiper-pagination" slot="pagination"></div>
