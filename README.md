@@ -14,8 +14,10 @@ Harvard Art Project - Featuring: Korean Paintings was created to showcase as wel
 ### Set-Up:
 **Front end**  
 Clone this repo  
-Run `npm install` from the root directory  
-Run `npm run serve` and visit http://localhost:8080
+Run `npm install` from the root directory
+Request an API key from [Harvard Art Museums](https://www.harvardartmuseums.org/collections/api)
+Insert your unique API key in the key.js file (ex. export const apiKey = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
+Run `npm run serve` and visit http://localhost:8080 in your browser
 
 **Back end**   
 [Harvard Art Museum API](https://www.harvardartmuseums.org/collections/api)
@@ -27,3 +29,7 @@ Run `npm run serve` and visit http://localhost:8080
 ### Original Assignment: 
 [Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design  
 
+### Future Enhancements:
+* Change .key file to .env file
+* Add more paintings to site
+* Implement Vuex
