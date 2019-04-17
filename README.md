@@ -30,6 +30,6 @@ Harvard Art Project - Featuring: Korean Paintings was created to showcase as wel
 [Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design  
 
 ### Future Enhancements:
-* Change to .env file for more security
+* Convert to .env file
 * Add more paintings to site
 * Implement Vuex to handle state
