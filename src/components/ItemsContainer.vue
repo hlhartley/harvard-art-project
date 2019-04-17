@@ -65,16 +65,17 @@ export default {
 </script>
 
 <style scoped>
-.swiper-inner {
-  width: 100%;
-  height: 400px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-.swiper-slide {
-  background-position: center;
-  background-size: cover;
-  width: 300px;
-  height: 300px;
-}
+  .swiper-inner {
+    width: 100%;
+    height: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
 </style>

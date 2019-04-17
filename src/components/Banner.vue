@@ -25,10 +25,8 @@
     padding: 15px;
     padding-top: 0px; 
   }
+
   .harvard-art-museum-text {
     height: 75px;
-  }
-  a {
-
   }
 </style>

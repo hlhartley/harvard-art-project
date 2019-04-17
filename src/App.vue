@@ -23,21 +23,21 @@ export default {
     return {
       items: [],
       swiperOption: {
-          effect: 'coverflow',
-          grabCursor: true,
-          centeredSlides: true,
-          slidesPerView: 'auto',
-          coverflowEffect: {
-            rotate: 50,
-            stretch: 0,
-            depth: 100,
-            modifier: 1,
-            slideShadows : true
-          },
-          pagination: {
-            el: '.swiper-pagination'
-          }
+        effect: 'coverflow',
+        grabCursor: true,
+        centeredSlides: true,
+        slidesPerView: 'auto',
+        coverflowEffect: {
+          rotate: 50,
+          stretch: 0,
+          depth: 100,
+          modifier: 1,
+          slideShadows : true
+        },
+        pagination: {
+          el: '.swiper-pagination'
         }
+      }
     }
   },
   created () {
@@ -49,16 +49,17 @@ export default {
 </script>
 
 <style>
-* {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 18px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-#app {
-  color: #2c3e50;
-}
+  * {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 18px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  #app {
+    color: #2c3e50;
+  }
 </style>
