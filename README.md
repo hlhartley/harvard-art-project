@@ -27,7 +27,8 @@ Harvard Art Project - Featuring: Korean Paintings was created to showcase as wel
 * Amazon Web Services - S3
 
 ### Original Assignment: 
-[Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design  
+* [Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design
+* [Harvard Art Museum Challenge](https://gist.github.com/letakeane/16882c0604830c5482b25431a6a6cb19)
 
 ### Future Enhancements:
 * Convert to .env file
