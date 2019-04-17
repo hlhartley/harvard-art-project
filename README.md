@@ -30,6 +30,6 @@ Run `npm run serve` and visit http://localhost:8080 in your browser
 [Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design  
 
 ### Future Enhancements:
-* Change .key file to .env file
+* Change to .env file for more security
 * Add more paintings to site
-* Implement Vuex
+* Implement Vuex to handle state
