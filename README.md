@@ -5,6 +5,9 @@ Harvard Art Project - Korean Paintings Edition was created to showcase as well a
 ### Website Link:
 [Harvard Art Project - Korean Paintings Edition](http://harvard-art-project.s3-website-us-west-2.amazonaws.com/)
 
+### Preview:
+![Final Screenshot](harvard-art-project.png)
+
 ### Set-Up:
 **Front end**  
 Clone this repo  
@@ -13,9 +16,6 @@ Run `npm run serve` and visit http://localhost:8080
 
 **Back end**   
 [Harvard Art Museum API](https://www.harvardartmuseums.org/collections/api)
-
-### Preview:
-![Final Screenshot](harvard-art-project.png)
 
 ### Primary Technologies Used:
 * Vue
