@@ -12,7 +12,7 @@ Run `npm run serve` and visit http://localhost:8080
 [Harvard Art Museum API](https://www.harvardartmuseums.org/collections/api)
 
 ### Preview:
-
+[Final Screenshot](harvard-art-project.png)
 
 ### Primary Technologies Used:
 * Vue
