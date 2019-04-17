@@ -20,7 +20,7 @@ Harvard Art Project - Featuring: Korean Paintings was created to showcase as wel
 * Run `npm run serve` and visit http://localhost:8080 in your browser
 
 **Back end**   
-[Harvard Art Museum API](https://www.harvardartmuseums.org/collections/api)
+* [Harvard Art Museum API](https://www.harvardartmuseums.org/collections/api)
 
 ### Primary Technologies Used:
 * Vue
