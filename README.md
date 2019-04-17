@@ -6,7 +6,7 @@ Harvard Art Project - Korean Paintings Edition was created to showcase as well a
 [Harvard Art Project - Korean Paintings Edition](http://harvard-art-project.s3-website-us-west-2.amazonaws.com/)
 
 ### Preview:
-![Final Screenshot](harvard-art-project.png)
+![Final Screenshot](harvard-art-project-ss.png)
 
 ### Set-Up:
 **Front end**  
