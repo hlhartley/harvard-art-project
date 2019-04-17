@@ -8,6 +8,9 @@ Harvard Art Project - Korean Paintings Edition was created to showcase as well a
 ### Preview:
 ![Final Screenshot](harvard-art-project-ss.png)
 
+### Wireframes:
+![Wireframes](korean-paintings-ss.png)
+
 ### Set-Up:
 **Front end**  
 Clone this repo  
@@ -24,5 +27,3 @@ Run `npm run serve` and visit http://localhost:8080
 ### Original Assignment: 
 [Final Countdown](http://frontend.turing.io/projects/final-countdown.html) project from Turing School of Software and Design  
 
-### Wireframes:
-![Wireframes](korean-paintings-ss.png)
