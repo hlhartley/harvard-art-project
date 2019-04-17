@@ -13,7 +13,7 @@ Harvard Art Project - Featuring: Korean Paintings was created to showcase as wel
 
 ### Set-Up:
 **Front end**  
-* Clone this repo  
+* Clone this repo: https://github.com/hlhartley/harvard-art-project.git
 * Run `npm install` from the root directory
 * Request an API key from [Harvard Art Museums](https://www.harvardartmuseums.org/collections/api)
 * Insert your unique API key in the key.js file (ex. export const apiKey = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
